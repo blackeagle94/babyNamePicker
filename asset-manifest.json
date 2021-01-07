@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/babyNamePicker/static/css/main.2fcc5d35.chunk.css",
-    "main.js": "/babyNamePicker/static/js/main.3410ac8d.chunk.js",
-    "main.js.map": "/babyNamePicker/static/js/main.3410ac8d.chunk.js.map",
-    "runtime-main.js": "/babyNamePicker/static/js/runtime-main.eb54bdfe.js",
-    "runtime-main.js.map": "/babyNamePicker/static/js/runtime-main.eb54bdfe.js.map",
-    "static/js/2.481fd0b3.chunk.js": "/babyNamePicker/static/js/2.481fd0b3.chunk.js",
-    "static/js/2.481fd0b3.chunk.js.map": "/babyNamePicker/static/js/2.481fd0b3.chunk.js.map",
-    "index.html": "/babyNamePicker/index.html",
-    "static/css/main.2fcc5d35.chunk.css.map": "/babyNamePicker/static/css/main.2fcc5d35.chunk.css.map",
-    "static/js/2.481fd0b3.chunk.js.LICENSE.txt": "/babyNamePicker/static/js/2.481fd0b3.chunk.js.LICENSE.txt"
+    "main.css": "/wikipedia/static/css/main.b2d852a2.chunk.css",
+    "main.js": "/wikipedia/static/js/main.5fe45bba.chunk.js",
+    "main.js.map": "/wikipedia/static/js/main.5fe45bba.chunk.js.map",
+    "runtime-main.js": "/wikipedia/static/js/runtime-main.39cee470.js",
+    "runtime-main.js.map": "/wikipedia/static/js/runtime-main.39cee470.js.map",
+    "static/js/2.37fd8186.chunk.js": "/wikipedia/static/js/2.37fd8186.chunk.js",
+    "static/js/2.37fd8186.chunk.js.map": "/wikipedia/static/js/2.37fd8186.chunk.js.map",
+    "index.html": "/wikipedia/index.html",
+    "static/css/main.b2d852a2.chunk.css.map": "/wikipedia/static/css/main.b2d852a2.chunk.css.map",
+    "static/js/2.37fd8186.chunk.js.LICENSE.txt": "/wikipedia/static/js/2.37fd8186.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb54bdfe.js",
-    "static/js/2.481fd0b3.chunk.js",
-    "static/css/main.2fcc5d35.chunk.css",
-    "static/js/main.3410ac8d.chunk.js"
+    "static/js/runtime-main.39cee470.js",
+    "static/js/2.37fd8186.chunk.js",
+    "static/css/main.b2d852a2.chunk.css",
+    "static/js/main.5fe45bba.chunk.js"
   ]
 }
