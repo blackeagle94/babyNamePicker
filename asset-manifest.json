@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/babyNamePicker/static/css/main.2fcc5d35.chunk.css",
+    "main.js": "/babyNamePicker/static/js/main.3410ac8d.chunk.js",
+    "main.js.map": "/babyNamePicker/static/js/main.3410ac8d.chunk.js.map",
+    "runtime-main.js": "/babyNamePicker/static/js/runtime-main.eb54bdfe.js",
+    "runtime-main.js.map": "/babyNamePicker/static/js/runtime-main.eb54bdfe.js.map",
+    "static/js/2.481fd0b3.chunk.js": "/babyNamePicker/static/js/2.481fd0b3.chunk.js",
+    "static/js/2.481fd0b3.chunk.js.map": "/babyNamePicker/static/js/2.481fd0b3.chunk.js.map",
+    "index.html": "/babyNamePicker/index.html",
+    "static/css/main.2fcc5d35.chunk.css.map": "/babyNamePicker/static/css/main.2fcc5d35.chunk.css.map",
+    "static/js/2.481fd0b3.chunk.js.LICENSE.txt": "/babyNamePicker/static/js/2.481fd0b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb54bdfe.js",
+    "static/js/2.481fd0b3.chunk.js",
+    "static/css/main.2fcc5d35.chunk.css",
+    "static/js/main.3410ac8d.chunk.js"
+  ]
+}
