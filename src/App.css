@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+  }
+
+  .App {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    border: 1px solid pink;
+  }
+
+
+ .f{
+   background: rgb(250, 139, 176);
+   padding: 5px;
+   margin: 1px;
+   cursor: pointer;
+   border: none;
+   border-radius: 10%;
+ }
+
+ .m {
+   background: rgb(67, 147, 238);
+   padding: 5px;
+   margin: 1px;
+   cursor: pointer;
+   border: none;
+   border-radius: 10%;
+ }
+
+
+.inputBox {
+  display: flex;
+  text-align: center;
+   justify-content: center;
+}
+
+.inputBox input {
+  border-right: 3px solid rgb(69, 69, 241);
+  border-left: 3px solid rgb(236, 104, 104);
+  border-top: 3px solid rgb(69, 69, 241);
+  border-bottom: 3px solid rgb(236, 104, 104);
+  padding: 5px;
+  width: 70%;
+}
+
+ .inputBox button {
+   text-align: center;
+   justify-content: center;
+ }
+
+ .favHead {
+   display: flex;
+   flex-direction: row;
+   text-align: left;
+   justify-content: left
+ }
+
+ .favs {
+   display: flex;
+   
+ }
+ 
+ .hr {
+   border: 1px solid pink;
+   width: 85%;
+   margin: auto
+ }
